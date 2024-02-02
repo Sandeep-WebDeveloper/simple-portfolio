@@ -1,0 +1,39 @@
+.flex{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+ul li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.list-none{
+    list-style-type: none;
+}
+
+.bg-user{
+    background-color: rgb(209, 202, 193);
+    width: 100%;
+}
+
+h3{
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.box{
+    margin: 10px 0;
+}
+.box h2{
+    font-size: 1.3rem;
+}
+
+.underline{
+    text-decoration: underline;
+    margin-bottom: 20px;
+    font-size: 2.4rem;
+}
